@@ -1,5 +1,5 @@
 
-markdown# 🗄️ SQL Interview Prep — UNION ALL Mastery
+markdown # 🗄️ SQL Interview Prep — UNION ALL Mastery
 
 > From zero to interview-ready on one of the most asked SQL topics in product-based company interviews.
 
